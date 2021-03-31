@@ -5,11 +5,8 @@
 # File: count_raven.py
 # Author: Ra Inta
 #
-# Description: Similar functionality as count_green_eggs_ham.py
-# except this makes use of the SparkContext.textFile()
-# convenience function to easily obtain data from HDFS format
-# and convert to a RDD of strings. You can just as easily convert
-# back to a HDFS store.
+# Description:  Word count in PySpark!
+# This is really just one line, with a bunch of boiler-plate code added
 #
 # Created: March 25, 2021 Ra Inta
 # Last Modified: 20210330, R.I.
