@@ -11,12 +11,12 @@ Making sense of data at scale requires a paradigm shift, referred to as Big Data
 
 In this one-hour session, Data Science expert and trainer Dr Ra Inta answers these questions and discusses how to manage the pain points your organization may experience while scaling up your data operations. Join us to learn how your teams can:
 
-•	Understand what makes data Big (Ra’s article, How Big is the “Big” in Big Data?, is also a great resource if you want a head start!)
-•	Gain an overview of the Big Data ecosystem
-•	Understand how data management operates with Spark and PySpark
-•	See how Machine Learning is implemented in Spark ML
-•	Grok the concept and promise of Fast Data
-•	See how Spark Streaming and Apache Kafka combine to produce a real-time alert system
+*	Understand what makes data Big (Ra’s article, [How Big is the “Big” in Big Data?](https://www.accelebrate.com/blog/how-big-is-the-big-in-big-data/), is also a great resource if you want a head start!)
+*	Gain an overview of the Big Data ecosystem
+*	Understand how data management operates with Spark and PySpark
+*	See how Machine Learning is implemented in Spark ML
+*	Grok the concept and promise of Fast Data
+*	See how Spark Streaming and Apache Kafka combine to produce a real-time alert system
 
 Follow along with downloadable code, or just come for the entertainment! At the conclusion, Ra will hold a Q&A session and eagerly answer your questions.
 
